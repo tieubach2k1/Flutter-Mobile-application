@@ -24,4 +24,21 @@ Học Flutter cơ bản
 
 
 - Bài 6: Widget trong Flutter
+- Bài 7: Layout trong Flutter
+- Bài 8: Gesture trong Flutter
+- Bài 9: Quản lý trạng thái State trong Flutter
+- Bài 10: Statefulwidget trong Flutter
+- Bài 11: ScopedModel trong Flutter
+- Bài 12: Navigator và Routing
+- Bài 13: Animation
+- Bài 14: Code với native Android
+- Bài 15: Code với native IOS
+- Bài 16: Giới thiệu về package
+- Bài 17: REST API
+- Bài 18: Khái niệm về Database
+- Bài 19: Chuyển đổi ngôn ngữ
+- Bài 20: Kiểm thử
+- Bài 21: Xuất ứng dụng trong Flutter
+- Bài 22: Công cụ phát triển
+- Bài 23: Viết ứng dụng hoàn chỉnh
 
