@@ -24,6 +24,9 @@ Học Flutter cơ bản
 
 
 - Bài 6: Widget trong Flutter
+  + Load hình ảnh
+  ![image](https://user-images.githubusercontent.com/63546465/156701389-7c21938a-aced-4518-990d-c68b75a54411.png)
+  + Load icon
 - Bài 7: Layout trong Flutter
 - Bài 8: Gesture trong Flutter
 - Bài 9: Quản lý trạng thái State trong Flutter
