@@ -1,4 +1,4 @@
-name: lesson6
+name: lesson7
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -55,13 +55,16 @@ flutter:
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
   # the material Icons class.
-  assets:
-    - assets/Image1.jpg
+  uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
-  #   - images/a_dot_ham.jpeg
+  assets:
+    - assets/appimages/floppydisk.jpg
+    - assets/appimages/iphone.jpg
+    - assets/appimages/laptop.jpg
+    - assets/appimages/pendrive.jpg
+    - assets/appimages/pixel.jpg
+    - assets/appimages/tablet.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
@@ -88,8 +91,3 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
-
-fonts:
-  - family: MyFlutterApp
-    fonts:
-      - asset: assets/MyFlutterApp.ttf
