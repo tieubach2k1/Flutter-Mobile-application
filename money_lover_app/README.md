@@ -1,16 +1,13 @@
+![image](https://user-images.githubusercontent.com/63546465/160082375-c1dc6ea1-db2f-4274-9353-9288e22c2f23.png)
 # money_lover_app
 
-A new Flutter project.
+Bài tập lớn môn Phát triển ứng dụng di động
 
-## Getting Started
+## Cách chạy
+  - Tạo clone project
+  - Tải về rồi chạy
+## Giới thiệu
 
-This project is a starting point for a Flutter application.
+### Màn hình Welcome
+![image](https://user-images.githubusercontent.com/63546465/160082224-193f897e-5b4d-4d92-8601-979ac21151f8.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
