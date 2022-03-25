@@ -3,6 +3,11 @@
 
 Bài tập lớn môn Phát triển ứng dụng di động
 
-## Getting Started
+## Cách chạy
+  - Tạo clone project
+  - Tải về rồi chạy
+## Giới thiệu
+
+### Màn hình Welcome
 ![image](https://user-images.githubusercontent.com/63546465/160082224-193f897e-5b4d-4d92-8601-979ac21151f8.png)
 
